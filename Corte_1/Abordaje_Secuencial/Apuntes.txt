@@ -1,2 +1,6 @@
 https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/ #Proceso de Uso ESP32
 https://randomnerdtutorials.com/esp32-pinout-reference-gpios/ #Control pines
+
+Instalacion de Drivers
+https://www.geekfactory.mx/tutoriales-arduino/driver-ch340-para-arduino-chinos-o-genericos/?srsltid=AfmBOooOQ0QEWKBC8gwzFf9nQWF5rzHMHubvHvdHMFJTxnucx4Ei0Q97
+https://www.silabs.com/software-and-tools/usb-to-uart-bridge-vcp-drivers?tab=download
